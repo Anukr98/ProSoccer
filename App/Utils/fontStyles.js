@@ -1,0 +1,16 @@
+import { StyleSheet } from 'react-native';
+
+export const fonts = StyleSheet.create({
+    regular: {
+        fontFamily: ''
+    },
+    light: {
+        fontFamily: ''
+    },
+    Medium: {
+        fontFamily: ''
+    },
+    Bold: {
+        fontFamily: ''
+    },
+});
