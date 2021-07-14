@@ -1,3 +1,0 @@
-export default `
-    create table if not exists cart(id INTEGER PRIMARY KEY AUTOINCREMENT , product_id INTEGER , product_name VARCHAR2(255) , shop_id INTEGER , product_image VARCHAR2(255) , product_price VARCHAR2(255) , discount VARCHAR2(255) , quantity INTEGER , base_unit VARCHAR2(255) , stock INTEGER , shop_banner VARCHAR2(255) , shop_name VARCHAR2(255) , shop_distance VARCHAR2(255) , rating VARCHAR2(255) , is_subscribable VARCHAR2(20) , commission INTEGER , delivery_range STRING);#
-`;
